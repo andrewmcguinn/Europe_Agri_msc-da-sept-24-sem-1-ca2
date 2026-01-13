@@ -1,23 +1,22 @@
-Here’s a **clean, well-structured, GitHub-ready rewrite** of your README section.
-Nothing is removed — it’s just **clearer, easier to scan, and more professional** (exactly what recruiters want).
+# Europe_Agri_msc-da-sept-24-sem-1-ca2
 
-You can **paste this directly into your `README.md`**.
+**Harnessing Data and Statistics to Drive Innovation and Sustainability in Irish Agriculture**
+
+## 🚀 Recruiter Summary
+
+A machine learning and statistical analysis project completed as part of an **MSc in Data Analytics**, applying classification, regression, and hypothesis testing techniques to agricultural data. The project focuses on **model optimisation**, **handling imbalanced data**, and **robust evaluation**, demonstrating strong predictive performance using Random Forest and KNN models.
 
 ---
 
-# Europe_Agri_msc-da-sept-24-sem-1-ca2
-
 ## 📌 Overview
 
-This project explores how **data science, statistical analysis, and machine learning** can be applied to drive **innovation and sustainability in Irish agriculture**.
+This project investigates how **data science, statistical analysis, and machine learning** can be leveraged to support **innovation and sustainability within Irish agriculture**.
 
-The study evaluates the performance of multiple machine learning models across both **classification and regression tasks**, with a strong focus on:
+Multiple machine learning models are evaluated across **classification and regression tasks**, with a strong emphasis on:
 
 * Hyperparameter optimisation
-* Model evaluation
-* Statistical inference
-
-This project was completed as part of my **MSc in Data Analytics**.
+* Model evaluation using appropriate metrics
+* Statistical inference and hypothesis testing
 
 ---
 
@@ -31,7 +30,17 @@ This project was completed as part of my **MSc in Data Analytics**.
 
 ---
 
-## 🤖 Machine Learning Models
+## 📊 Methodology
+
+### Data Preprocessing
+
+* The dataset exhibited **imbalanced class distributions**
+* **SMOTE (Synthetic Minority Over-sampling Technique)** was applied to balance target classes
+* Features were cleaned and prepared prior to model training
+
+---
+
+### 🤖 Machine Learning Models
 
 The following models were implemented and evaluated:
 
@@ -43,32 +52,66 @@ The following models were implemented and evaluated:
 
 ---
 
-## ⚙️ Hyperparameter Optimisation & Validation
+### ⚙️ Hyperparameter Optimisation & Validation
 
 * **GridSearchCV** was used to identify optimal hyperparameters for each model
-* **Cross-validation** was applied to ensure robust, reliable, and unbiased model performance
+* **Cross-validation** ensured robust, reliable, and unbiased performance estimates
 
 ---
 
-If you’d like, I can:
+## 📈 Results & Evaluation
 
-* Add a **Results section** with metrics formatted cleanly
-* Write a **“How to Run”** section
-* Align this README stylistically with your **other MSc projects**
-* Make a **short recruiter-friendly summary** at the top
+### 🔹 Classification Performance
 
-Just tell me 👍
+Models were evaluated using:
 
+* Accuracy
+* Precision
+* Recall
+* Cohen’s Kappa
 
-📈 Model Evaluation
-Results:
-Multinomial Naive Bayes achieved a cross-validation accuracy of 0.59
+**Key Results:**
 
-Logistic Regression achieved a cross-validation accuracy of 0.58
+* Multinomial Naive Bayes: **0.59** cross-validation accuracy
+* Logistic Regression: **0.58** cross-validation accuracy
 
-Random Forest achieved an R² score of 0.94
+Both models demonstrated competitive performance in classification tasks.
 
-KNN achieved an R² score of 0.88
+---
 
-Residual plots were generated to assess model fit and error distribution
+### 🔹 Regression Performance
 
+Regression models were assessed using:
+
+* **R² score**
+* **Residual analysis**
+
+**Top Performing Models:**
+
+* **Random Forest**: R² = **0.94**
+* **KNN**: R² = **0.88**
+
+Residual plots were generated to analyse model fit and error distribution.
+
+---
+
+## 📐 Statistical Analysis
+
+* Hypothesis tests were conducted comparing **agricultural output yields of major European countries against Ireland**
+* Effect sizes were measured using **Cohen’s D**
+* **Statistical power** was calculated to assess the reliability of test results
+
+---
+
+## 📌 Key Insights
+
+* Random Forest and KNN significantly outperformed other models in regression tasks
+* SMOTE improved predictive performance on imbalanced classification data
+* Combining machine learning with statistical hypothesis testing enhanced interpretability and decision-making
+
+---
+
+## 📬 Contact
+
+**Andrew McGuinn**
+MSc Data Analytics
