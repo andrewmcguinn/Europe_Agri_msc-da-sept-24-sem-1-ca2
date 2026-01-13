@@ -35,13 +35,12 @@ Cohen’s Kappa
 
 Results:
 Multinomial Naive Bayes achieved a cross-validation accuracy of 0.59
-Logistic Regression achieved a cross-validation accuracy of 0.58
-Both models demonstrated competitive performance in classification tasks
-Regression Metrics
 
-Results:
+Logistic Regression achieved a cross-validation accuracy of 0.58
+
 Random Forest achieved an R² score of 0.94
+
 KNN achieved an R² score of 0.88
-These models outperformed all other regression approaches
+
 Residual plots were generated to assess model fit and error distribution
 
