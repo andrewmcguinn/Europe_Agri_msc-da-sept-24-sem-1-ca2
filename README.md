@@ -2,12 +2,6 @@
 
 **Harnessing Data and Statistics to Drive Innovation and Sustainability in Irish Agriculture**
 
-## 🚀 Recruiter Summary
-
-A machine learning and statistical analysis project completed as part of an **MSc in Data Analytics**, applying classification, regression, and hypothesis testing techniques to agricultural data. The project focuses on **model optimisation**, **handling imbalanced data**, and **robust evaluation**, demonstrating strong predictive performance using Random Forest and KNN models.
-
----
-
 ## 📌 Overview
 
 This project investigates how **data science, statistical analysis, and machine learning** can be leveraged to support **innovation and sustainability within Irish agriculture**.
