@@ -10,13 +10,14 @@ The project was completed as part of my MSc in Data Analytics.
 
 🧠 Technologies & Tools:
 Python
-Pandas, NumPy,
-Scikit-learn,
-Imbalanced-learn (SMOTE),
+Pandas, NumPy
+Scikit-learn
+Imbalanced-learn (SMOTE)
 Matplotlib / Seaborn.
 
 
 Machine Learning Models:
+
 Logistic Regression
 
 Decision Tree
@@ -29,8 +30,9 @@ Multinomial Naive Bayes
 
 Hyperparameter Optimisation
 
-GridSearchCV was employed to identify optimal hyperparameters for each model.
-Cross-validation was used to ensure robust and reliable model performance.
+GridSearchCV was employed to identify optimal hyperparameters for each model
+
+Cross-validation was used to ensure robust and reliable model performance
 
 
 📈 Model Evaluation
