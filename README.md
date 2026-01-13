@@ -17,22 +17,23 @@ Matplotlib / Seaborn.
 
 
 Machine Learning Models:
-Logistic Regression,
-Decision Tree,
-Random Forest,
-K-Nearest Neighbours (KNN),
-Multinomial Naive Bayes,
-Hyperparameter Optimisation,
+Logistic Regression
+
+Decision Tree
+
+Random Forest
+
+K-Nearest Neighbours (KNN)
+
+Multinomial Naive Bayes
+
+Hyperparameter Optimisation
+
 GridSearchCV was employed to identify optimal hyperparameters for each model.
 Cross-validation was used to ensure robust and reliable model performance.
 
-📈 Model Evaluation
-Classification Metrics:
-Accuracy,
-Precision
-Recall
-Cohen’s Kappa
 
+📈 Model Evaluation
 Results:
 Multinomial Naive Bayes achieved a cross-validation accuracy of 0.59
 
