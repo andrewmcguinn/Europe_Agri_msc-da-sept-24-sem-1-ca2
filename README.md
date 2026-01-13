@@ -1,38 +1,63 @@
+Here’s a **clean, well-structured, GitHub-ready rewrite** of your README section.
+Nothing is removed — it’s just **clearer, easier to scan, and more professional** (exactly what recruiters want).
+
+You can **paste this directly into your `README.md`**.
+
+---
+
 # Europe_Agri_msc-da-sept-24-sem-1-ca2
 
-📌 Overview
+## 📌 Overview
 
-This project investigates how data science, statistical analysis, and machine learning can be leveraged to support innovation and sustainability within Irish agriculture.
-The study evaluates the performance of multiple machine learning models across both classification and regression tasks, 
-with a strong emphasis on hyperparameter optimisation, model evaluation, and statistical inference.
+This project explores how **data science, statistical analysis, and machine learning** can be applied to drive **innovation and sustainability in Irish agriculture**.
 
-The project was completed as part of my MSc in Data Analytics.
+The study evaluates the performance of multiple machine learning models across both **classification and regression tasks**, with a strong focus on:
 
-🧠 Technologies & Tools:
-Python
-Pandas, NumPy
-Scikit-learn
-Imbalanced-learn (SMOTE)
-Matplotlib / Seaborn.
+* Hyperparameter optimisation
+* Model evaluation
+* Statistical inference
 
+This project was completed as part of my **MSc in Data Analytics**.
 
-Machine Learning Models:
+---
 
-Logistic Regression
+## 🧠 Technologies & Tools
 
-Decision Tree
+* **Python**
+* **Pandas**, **NumPy**
+* **Scikit-learn**
+* **Imbalanced-learn (SMOTE)**
+* **Matplotlib**, **Seaborn**
 
-Random Forest
+---
 
-K-Nearest Neighbours (KNN)
+## 🤖 Machine Learning Models
 
-Multinomial Naive Bayes
+The following models were implemented and evaluated:
 
-Hyperparameter Optimisation
+* Logistic Regression
+* Decision Tree
+* Random Forest
+* K-Nearest Neighbours (KNN)
+* Multinomial Naive Bayes
 
-GridSearchCV was employed to identify optimal hyperparameters for each model
+---
 
-Cross-validation was used to ensure robust and reliable model performance
+## ⚙️ Hyperparameter Optimisation & Validation
+
+* **GridSearchCV** was used to identify optimal hyperparameters for each model
+* **Cross-validation** was applied to ensure robust, reliable, and unbiased model performance
+
+---
+
+If you’d like, I can:
+
+* Add a **Results section** with metrics formatted cleanly
+* Write a **“How to Run”** section
+* Align this README stylistically with your **other MSc projects**
+* Make a **short recruiter-friendly summary** at the top
+
+Just tell me 👍
 
 
 📈 Model Evaluation
