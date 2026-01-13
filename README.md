@@ -10,10 +10,10 @@ The project was completed as part of my MSc in Data Analytics.
 
 🧠 Technologies & Tools:
 Python
-Pandas, NumPy
-Scikit-learn
-Imbalanced-learn (SMOTE)
-Matplotlib / Seaborn
+Pandas, NumPy,
+Scikit-learn,
+Imbalanced-learn (SMOTE),
+Matplotlib / Seaborn.
 
 
 Machine Learning Models:
